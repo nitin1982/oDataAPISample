@@ -1,0 +1,12 @@
+C:\Users\nitin\Desktop\EmployeeManagementAPI\EmployeeManagement.DAL\bin\Debug\EmployeeManagement.DAL.dll.config
+C:\Users\nitin\Desktop\EmployeeManagementAPI\EmployeeManagement.DAL\bin\Debug\EmployeeManagement.DAL.dll
+C:\Users\nitin\Desktop\EmployeeManagementAPI\EmployeeManagement.DAL\bin\Debug\EmployeeManagement.DAL.pdb
+C:\Users\nitin\Desktop\EmployeeManagementAPI\EmployeeManagement.DAL\bin\Debug\EntityFramework.dll
+C:\Users\nitin\Desktop\EmployeeManagementAPI\EmployeeManagement.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\nitin\Desktop\EmployeeManagementAPI\EmployeeManagement.DAL\bin\Debug\EntityFramework.xml
+C:\Users\nitin\Desktop\EmployeeManagementAPI\EmployeeManagement.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\nitin\Desktop\EmployeeManagementAPI\EmployeeManagement.DAL\obj\Debug\EmployeeManagement.DAL.csprojAssemblyReference.cache
+C:\Users\nitin\Desktop\EmployeeManagementAPI\EmployeeManagement.DAL\obj\Debug\EmployeeManagement.DAL.csproj.CoreCompileInputs.cache
+C:\Users\nitin\Desktop\EmployeeManagementAPI\EmployeeManagement.DAL\obj\Debug\EmployeeManagement.DAL.csproj.CopyComplete
+C:\Users\nitin\Desktop\EmployeeManagementAPI\EmployeeManagement.DAL\obj\Debug\EmployeeManagement.DAL.dll
+C:\Users\nitin\Desktop\EmployeeManagementAPI\EmployeeManagement.DAL\obj\Debug\EmployeeManagement.DAL.pdb
